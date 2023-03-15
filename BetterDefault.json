@@ -1,0 +1,126 @@
+{
+  "name": "BetterDefault",
+  "description": "Original theme made by xRqz3r for AliucordKT, ported to RN by Vodka Martini",
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "xRqz3r",
+      "id": "235854021305303040"
+    },
+    
+    {
+      "name": "Vodka Martini",
+      "id": "1068030255455015013"
+    }
+    ],
+  "theme_color_map": {
+    "HEADER_PRIMARY": [
+      "#d4daef",
+      "#d4daef"
+    ],
+    "HEADER_SECONDARY": [
+      "#d4daef",
+      "#d4daef"
+    ],
+    "TEXT_NORMAL": [
+      "#d4daef",
+      "#d4daef"
+    ],
+    "TEXT_MUTED": [
+      "#6f727c",
+      "#6f727c"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#EDF0F9",
+      "#EDF0F9"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#510a32",
+      "#510a32"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#c8c8c8",
+      "#c8c8c8"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#6f727c",
+      "#6f727c"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#2b3040",
+      "#2b3040"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#2b3040",
+      "#2b3040"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#212532",
+      "#212532"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#2b3040",
+      "#2b3040"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#2b3040",
+      "#2b3040"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#2b3040",
+      "#2b3040"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "#212532",
+      "#212532"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#42464d",
+      "#42464d"
+    ],
+        "CHAT_BACKGROUND": [
+      "#2b3040",
+      "#2b3040"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#717991",
+      "#717991"
+    ],
+    "TEXT_LINK": [
+      "#d4daef",
+      "#d4daef"
+    ],
+    "KEYBOARD": [
+      "#2b3040",
+      "#2b3040"
+    ],
+    "CHANNEL_ICON": [
+      "#EDF0F9",
+      "#EDF0F9"
+    ]
+  },
+  "colours": {
+    "PRIMARY_DARK": "#2b3040",
+    "PRIMARY_DARK_100": "#d4daef",
+    "PRIMARY_DARK_200": "#d4daef",
+    "PRIMARY_DARK_300": "#b6b6b6",
+    "PRIMARY_DARK_360": "#d4daef",
+    "PRIMARY_DARK_400": "#edf0f9",
+    "PRIMARY_DARK_500": "#2b3040",
+    "PRIMARY_DARK_600": "#2b3040",
+    "PRIMARY_DARK_630": "#2b3040",
+    "PRIMARY_DARK_700": "#2b3040",
+    "PRIMARY_DARK_800": "#2b3040",
+    "BRAND_NEW_260": "#EDF0F9",
+    "BRAND_NEW_500": "#A4ACC2",
+    "BRAND_NEW_900": "#d4daef",
+    "BRAND_NEW": "#EDF0F9",
+    "STATUS_YELLOW_300": "#2b3040",
+    "STATUS_GREEN_600": "#7e849a",
+    "STATUS_RED": "#7e849a"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#2b3040"
+  }
+  
+}
