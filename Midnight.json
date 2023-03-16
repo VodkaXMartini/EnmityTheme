@@ -1,0 +1,171 @@
+{
+  "name": "Midnight",
+  "description": "Original theme made by refact0r for Better Discord, ported to RN by Vodka Martini",
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "Vodka Martini",
+      "id": "1068030255455015013"
+    }
+  ],
+  "theme_color_map": {
+    "HEADER_PRIMARY": [
+      "#8a94a8",
+      "#8a94a8"
+    ],
+    "HEADER_SECONDARY": [
+      "#576175",
+      "#576175"
+    ],
+    "TEXT_NORMAL": [
+      "#8a94a8",
+      "#8a94a8"
+    ],
+    "TEXT_MUTED": [
+      "#2b303b",
+      "#2b303b"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#576175",
+      "#576175"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#8a94a8",
+      "#8a94a8"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#8a94a8",
+      "#8a94a8"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#2b303b",
+      "#2b303b"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#16181d",
+      "#16181d"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#181b20",
+      "#181b20"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#181b20",
+      "#181b20"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#1a1d23",
+      "#1a1d23"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#272c35",
+      "#272c35"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#111317",
+      "#111317"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#16181d",
+      "#16181d"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#181b20",
+      "#181b20"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#111317",
+      "#111317"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "#1d232f",
+      "#1d232f"
+    ],
+    
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#2b303b",
+      "#2b303b"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#2b303b",
+      "#2b303b"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#2b303b",
+      "#2b303b"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#2b303b",
+      "#2b303b"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#2b303b",
+      "#2b303b"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#1a1d23",
+      "#1a1d23"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent",
+      "transparent"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#1a1d23",
+      "#1a1d23"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "transparent",
+      "transparent"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#1a1d23",
+      "#1a1d23"
+    ],
+    "CHAT_BACKGROUND": [
+      "#16181D",
+      "#16181D"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#576175",
+      "#576175"
+    ],
+    "TEXT_LINK": [
+      "#00aff4",
+      "#00aff4"
+    ],
+    "KEYBOARD": [
+      "#16181d",
+      "#16181d"
+    ],
+    "CHANNEL_ICON": [
+      "#80848e",
+      "#80848e"
+    ]
+  },
+  "colours": {
+    "PRIMARY_DARK": "#16181d",
+    "PRIMARY_DARK_100": "#576175",
+    "PRIMARY_DARK_200": "#576175",
+    "PRIMARY_DARK_300": "#B6B6B6",
+    "PRIMARY_DARK_360": "#576175",
+    "PRIMARY_DARK_400": "#2b303b",
+    "PRIMARY_DARK_500": "#010101",
+    "PRIMARY_DARK_600": "#16181d",
+    "PRIMARY_DARK_630": "#16181d",
+    "PRIMARY_DARK_700": "#16181d",
+    "PRIMARY_DARK_800": "#16181d",
+    "BRAND_NEW_260": "#8a94a8",
+    "BRAND_NEW_500": "#2b303b",
+    "BRAND_NEW_900": "#576175",
+    "BRAND_NEW": "#8a94a8",
+    "STATUS_YELLOW_300": "#576175",
+    "STATUS_GREEN_600": "#576175",
+    "STATUS_DANGER": "#2b303b",
+    "STATUS_RED": "#8a94a8"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#16181d"
+  }
+  
+}
