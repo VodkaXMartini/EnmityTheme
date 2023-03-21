@@ -43,10 +43,10 @@
         ],
         "BACKGROUND_PRIMARY": [
             "#4d616c",
-            "#5d737e"
+            "#4d616c"
         ],
         "BACKGROUND_SECONDARY": [
-            "#5d737e",
+            "#4d616c",
             "#4d616c"
         ],
         "BACKGROUND_SECONDARY_ALT": [
