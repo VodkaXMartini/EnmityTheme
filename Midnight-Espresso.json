@@ -84,8 +84,8 @@
           "#15100d"
         ],
         "BACKGROUND_MENTIONED": [
-            "#9E8376",
-          "#9E8376"
+            "#60473A",
+          "#60473A"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
             "#DAC0B3",
@@ -169,5 +169,7 @@
         "WHITE_500": "#EFDFD7",
         "GREEN_360": "#503E38"
     },
-    "spec": 2
+     "unsafe_colors": {
+    "CHAT_GREY": "#100D0A"
+    }
 }
