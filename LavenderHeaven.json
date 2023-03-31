@@ -153,6 +153,7 @@
     "PRIMARY_DARK_500": "#010101",
     "PRIMARY_DARK_600": "#0a0813",
     "PRIMARY_DARK_630": "#0a0813",
+    "PRIMARY_DARK_630": "#0a0813",
     "PRIMARY_DARK_700": "#0a0813",
     "PRIMARY_DARK_800": "#0a0813",
     "BRAND_NEW_260": "#a297c3",
@@ -160,6 +161,7 @@
     "BRAND_NEW_900": "#7c6ea7",
     "BRAND_NEW": "#a297c3",
     "STATUS_YELLOW_300": "#443a59",
+    "STATUS_GREEN_360": "#7c6ea7",
     "STATUS_GREEN_600": "#7c6ea7",
     "STATUS_DANGER": "#625682",
     "STATUS_RED": "#a297c3"
